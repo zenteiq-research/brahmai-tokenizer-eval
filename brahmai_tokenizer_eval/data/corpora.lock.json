@@ -1,0 +1,922 @@
+{
+ "code/C": {
+  "items": 500,
+  "bytes": 3358154,
+  "sha256": "d87ab0f113c14156dd8d680384b4a5579ea13ee5ed58ebfaa4cc47e7516022d2"
+ },
+ "code/C++": {
+  "items": 500,
+  "bytes": 2547420,
+  "sha256": "496ad0474ef27908b203932574af87d91e53b5907e4e95c5fd98c5dd8a5e3d3f"
+ },
+ "code/COBOL": {
+  "items": 500,
+  "bytes": 2168067,
+  "sha256": "937c65b1d348ec583b7779f08cb44db1d479b6f9a47d211e91742c966e9ac3f3"
+ },
+ "code/Fortran": {
+  "items": 500,
+  "bytes": 722612,
+  "sha256": "95d86b17815bfb97ad114b9b574848ec78908e9baa18b179732f47bef5d26ed7"
+ },
+ "code/Go": {
+  "items": 500,
+  "bytes": 2232693,
+  "sha256": "d25016692ebe036fa1792a23c86f3012ea0ad56f274f1b6c57c446431b00ad03"
+ },
+ "code/Java": {
+  "items": 500,
+  "bytes": 2019002,
+  "sha256": "04b6a9c36fb38781807e9baed4cebd60854a09eb4e11895b24400a2e8dfed54b"
+ },
+ "code/JavaScript": {
+  "items": 500,
+  "bytes": 2097960,
+  "sha256": "453e5e54f408b72a1d9a2fbf5453882325e12a91374e94206209ab61a56523e6"
+ },
+ "code/Python": {
+  "items": 500,
+  "bytes": 3372503,
+  "sha256": "52a98f0b745468550dd68f39c3772724ef965f026a7976bdc60b71e0f0309199"
+ },
+ "code/Rust": {
+  "items": 500,
+  "bytes": 3423553,
+  "sha256": "6af9105c1527a10a9cc1e5d45d021222dbd34444606ddf245481398ccee3b7a7"
+ },
+ "dakshina/ben_Beng.native": {
+  "items": 1000,
+  "bytes": 216349,
+  "sha256": "70a36359bbf3078025bc6b81e48779c066808c3a234e46c7f3b0e493db0babdf"
+ },
+ "dakshina/ben_Beng.roman": {
+  "items": 1000,
+  "bytes": 86729,
+  "sha256": "7a34f27dbacff96b76dc2fe44979b3877a2df48172d93ec352daebfb5f6a63b9"
+ },
+ "dakshina/guj_Gujr.native": {
+  "items": 1000,
+  "bytes": 258782,
+  "sha256": "e572d5b53c0003f40823f4a19583260db213ca1b93606909dd115174a91708d8"
+ },
+ "dakshina/guj_Gujr.roman": {
+  "items": 1000,
+  "bytes": 121287,
+  "sha256": "1e137d4b501f0edf8a74d5f16a9c8054074cc85c69435680ce654fd76a630741"
+ },
+ "dakshina/hin_Deva.native": {
+  "items": 1000,
+  "bytes": 239315,
+  "sha256": "ef1c947b7e869d9817fb3cb741f3425abe680dbb4fabd33101d3c64391cb0649"
+ },
+ "dakshina/hin_Deva.roman": {
+  "items": 1000,
+  "bytes": 101711,
+  "sha256": "338bc5a57619656e99a39ba80ef033546677ea4ee69ccc0fd5bd8741008302ad"
+ },
+ "dakshina/kan_Knda.native": {
+  "items": 1000,
+  "bytes": 267525,
+  "sha256": "0e88ef5e53adf76f0c069399f1f63cb550edf9bd4c3f369d2daaada97a6d7553"
+ },
+ "dakshina/kan_Knda.roman": {
+  "items": 1000,
+  "bytes": 114090,
+  "sha256": "a26f6d7ff876af99c69feb10374dd332d469228b837720d83a266c9b8911ffe4"
+ },
+ "dakshina/mal_Mlym.native": {
+  "items": 1000,
+  "bytes": 239251,
+  "sha256": "1b06f134367163a6f20dc21571d5d9acabe9cae579cfc383ce3c0cf3c3383dd2"
+ },
+ "dakshina/mal_Mlym.roman": {
+  "items": 1000,
+  "bytes": 94033,
+  "sha256": "8e6ce343ee23104a9f01cd6ef43b50fa78a5fdbef285163637121427e31f2fc6"
+ },
+ "dakshina/mar_Deva.native": {
+  "items": 1000,
+  "bytes": 183326,
+  "sha256": "d3da1cfd1942d08ac074997922bc8b17c874b06250ae35c2c2d79bd50f8b7cf4"
+ },
+ "dakshina/mar_Deva.roman": {
+  "items": 1000,
+  "bytes": 74952,
+  "sha256": "238db034a5f0d63436c9cdd4dd43ed676d9e52afc2d57da6f91a284c02c35cf7"
+ },
+ "dakshina/pan_Guru.native": {
+  "items": 1000,
+  "bytes": 241623,
+  "sha256": "8600d23b30b7db472d1bca4fb88bdcccf88f1662f378d0ad15cb348ce7ecebed"
+ },
+ "dakshina/pan_Guru.roman": {
+  "items": 1000,
+  "bytes": 107424,
+  "sha256": "388db67196efde1769dd73e464531d601d7a61879057df24c19c5081c29653b1"
+ },
+ "dakshina/sin_Sinh.native": {
+  "items": 1000,
+  "bytes": 243365,
+  "sha256": "29b6cded999eab5dfa3b7f31d5cb7b03bf483e0a15e5f89c7cbda535d59fe7af"
+ },
+ "dakshina/sin_Sinh.roman": {
+  "items": 1000,
+  "bytes": 109564,
+  "sha256": "9d77979e4e00e68d701f2588a479dff8f060cf13fab8d34c785000fd54fc6aba"
+ },
+ "dakshina/snd_Arab.native": {
+  "items": 1000,
+  "bytes": 156429,
+  "sha256": "f9cace55c038887ec962377229c586d24cc38b9a17ba7d8468533671da33c068"
+ },
+ "dakshina/snd_Arab.roman": {
+  "items": 1000,
+  "bytes": 108609,
+  "sha256": "699b964c4b465d5fe7b098c3f6cbad36b4c2e7b015203387725f9b09ca18e025"
+ },
+ "dakshina/tam_Taml.native": {
+  "items": 1000,
+  "bytes": 255226,
+  "sha256": "0ee9ea6cce0769c78a0ea04d46cec2c28409d3917294d85b9aff5e1ac8438f2b"
+ },
+ "dakshina/tam_Taml.roman": {
+  "items": 1000,
+  "bytes": 101461,
+  "sha256": "a8fcc6da20790603ed38f3e01959b4c3db1ee18d06883d73e1c33eed6b456297"
+ },
+ "dakshina/tel_Telu.native": {
+  "items": 1000,
+  "bytes": 207972,
+  "sha256": "4610a9dd8b0c3774afa5de8a7fda28037b452eb320b4c2c64de7dd822f13a85b"
+ },
+ "dakshina/tel_Telu.roman": {
+  "items": 1000,
+  "bytes": 88964,
+  "sha256": "9c7f8c4dc0f3e384c0451315c316964285d7424392caea1d97f05ed54a6b1060"
+ },
+ "dakshina/urd_Arab.native": {
+  "items": 1000,
+  "bytes": 156669,
+  "sha256": "9abb819e715bb3a838c5d2a0f8bcd8b8bed6f6b225b6bafb9dfd904fe29444d3"
+ },
+ "dakshina/urd_Arab.roman": {
+  "items": 1000,
+  "bytes": 105221,
+  "sha256": "d2fada15900ef8bfb3d8fe6c4ee44d54e956c8465b445a8a81f21e426bfc727c"
+ },
+ "flores/asm_Beng": {
+  "items": 1012,
+  "bytes": 335076,
+  "sha256": "43db05ffb9710e6cbc9700b7bde67be4731cdd5c2c3317b47f654235f68a78b9"
+ },
+ "flores/ben_Beng": {
+  "items": 1012,
+  "bytes": 344682,
+  "sha256": "b27cccc8dc8170c46d78b6a782c5513f12c97102968ec07c4f83fa7068ebceeb"
+ },
+ "flores/deu_Latn": {
+  "items": 1012,
+  "bytes": 156358,
+  "sha256": "befa910d2e379450ad69ef5056e043a6ed839c3e1406c64f3ad7d322d76a3f4c"
+ },
+ "flores/eng_Latn": {
+  "items": 1012,
+  "bytes": 132096,
+  "sha256": "6c7fc9a6f68e0ff0a1e7a1e8ae63537887c643a9d5b3ed86373cb892ad68fa0b"
+ },
+ "flores/fra_Latn": {
+  "items": 1012,
+  "bytes": 164026,
+  "sha256": "5a5a32d51f3a34f19e5f7ef25564cd1dcff03d102cd27fd1629d1c8501024bb8"
+ },
+ "flores/guj_Gujr": {
+  "items": 1012,
+  "bytes": 331068,
+  "sha256": "a95707b5aeed955138b1b02e240479864ec420e2ac3dbf00bf3600b8405fda07"
+ },
+ "flores/hin_Deva": {
+  "items": 1012,
+  "bytes": 337094,
+  "sha256": "186907aee9c0453550d752e2b3d653d5b35895b480c6b05974d5b7c8b74b3916"
+ },
+ "flores/jpn_Jpan": {
+  "items": 1012,
+  "bytes": 167109,
+  "sha256": "7830d63937ac38b368e20a897e1870dbc6cccd17c5e4e30a04a897002d84dfbc"
+ },
+ "flores/kan_Knda": {
+  "items": 1012,
+  "bytes": 375480,
+  "sha256": "990dfdfd38e7e6938c747192f87273fb1327d9f23c41af95f2a014e2ae627f23"
+ },
+ "flores/kas_Arab": {
+  "items": 1012,
+  "bytes": 228303,
+  "sha256": "4a01622069617c87242c6eb26b8d00d83ce6ba45f9e2d1952c96525e3b110f3d"
+ },
+ "flores/kor_Hang": {
+  "items": 1012,
+  "bytes": 157799,
+  "sha256": "c888f27d32e008b4caa0c2df452fb4eacc90e84399721883946e329cf843e138"
+ },
+ "flores/mai_Deva": {
+  "items": 1012,
+  "bytes": 335362,
+  "sha256": "873c413512ce73fd1b9b2e021c639667230359be62b72ffe34af66ecde6f5cd8"
+ },
+ "flores/mal_Mlym": {
+  "items": 1012,
+  "bytes": 411753,
+  "sha256": "c66996445a6489577b9899cde180f93c5c3e95bfd1d4b1dca20355c9c5191375"
+ },
+ "flores/mar_Deva": {
+  "items": 1012,
+  "bytes": 355712,
+  "sha256": "24af8022156d725ce3f40250420ef0b8a7d5d6b935b5022869341a7b6f86b0e4"
+ },
+ "flores/mni_Beng": {
+  "items": 1012,
+  "bytes": 367969,
+  "sha256": "4586d50e99fa3dfe72b0c181a08b6e3c77148f8550373ac9638a084856c38c8d"
+ },
+ "flores/mya_Mymr": {
+  "items": 1012,
+  "bytes": 465528,
+  "sha256": "f16651b0d3e15deb6d5732bef5ba7df304f2c465046ced37a153d5eec40a6bc2"
+ },
+ "flores/npi_Deva": {
+  "items": 1012,
+  "bytes": 339472,
+  "sha256": "9497628e1309384184460438b76c93d5fc7fde4ad42130065b1a4af62a2af42e"
+ },
+ "flores/ory_Orya": {
+  "items": 1012,
+  "bytes": 361459,
+  "sha256": "e2ff9bf1139b93a917a17ad56a0d6ece1d23d3a9783e82c49b9f0a4dc72f1268"
+ },
+ "flores/pan_Guru": {
+  "items": 1012,
+  "bytes": 344172,
+  "sha256": "d54c384ab4390930a8ea4f290887b17035aeb6dcd5a9ed2219ba1dad003a2ca0"
+ },
+ "flores/pbt_Arab": {
+  "items": 1012,
+  "bytes": 214856,
+  "sha256": "6f8605b267a29733781eb4cc1349f9a4b8c905512a98d34671df06885a2a9a2d"
+ },
+ "flores/prs_Arab": {
+  "items": 1012,
+  "bytes": 215039,
+  "sha256": "29d38103cc43842e78187cca273c5bec1b76726da262dfc6a1ad9083b0df51e9"
+ },
+ "flores/rus_Cyrl": {
+  "items": 1012,
+  "bytes": 260342,
+  "sha256": "9a60c34a9ce86ee3c7ecb19649f70170b3ac59f1714b9955374c842b87400225"
+ },
+ "flores/san_Deva": {
+  "items": 1012,
+  "bytes": 346824,
+  "sha256": "f5fe9b66fc848803ab9b5cd6a6bc014fc9758ba12ff093eb2a96eb68a416879a"
+ },
+ "flores/sat_Olck": {
+  "items": 1012,
+  "bytes": 369315,
+  "sha256": "fe378b493cc627dd0f10980c3633f4cc19f7adbf4c6257c2d630e2161dc33a28"
+ },
+ "flores/sin_Sinh": {
+  "items": 1012,
+  "bytes": 346056,
+  "sha256": "5ecd3e84296d0ac55de97c13a0b30bb609008012787771a718e9a663fa6f42fd"
+ },
+ "flores/snd_Arab": {
+  "items": 1012,
+  "bytes": 211881,
+  "sha256": "b9c75b90644d5a50f24d022551654a8eb6653fc2d8e8477829af49526ddbddcc"
+ },
+ "flores/tam_Taml": {
+  "items": 1012,
+  "bytes": 421641,
+  "sha256": "4acd76e7b56dde38ce1e20a03f926c6f6a5882d2ddb34c61d3553d9d92e12b88"
+ },
+ "flores/tel_Telu": {
+  "items": 1012,
+  "bytes": 353711,
+  "sha256": "14e83e2aeb09a0ad7615e3a92c316659f6684ae5054ab4e20178a18741b7dacb"
+ },
+ "flores/urd_Arab": {
+  "items": 1012,
+  "bytes": 231701,
+  "sha256": "5ce7a4a1a7ec272f7416b8ac28ada7fe4f0c20b5ffc2c5781b25932f9237c8fd"
+ },
+ "flores/zho_Hans": {
+  "items": 1012,
+  "bytes": 120806,
+  "sha256": "9f363a0670db23621df90f37575e8d18b93496e969dc1f8bad9f986178d013d3"
+ },
+ "in22/asm_Beng": {
+  "items": 1024,
+  "bytes": 429759,
+  "sha256": "e4d09c9f89b8215b4b24a16fdcf31c633b5119113bcc1e78514d6920101b537f"
+ },
+ "in22/ben_Beng": {
+  "items": 1024,
+  "bytes": 402977,
+  "sha256": "057a6adb0e0f824111e7ac3dfd1b0264d4d81f4415bdabd0df79491c8908630f"
+ },
+ "in22/brx_Deva": {
+  "items": 1024,
+  "bytes": 436398,
+  "sha256": "c901a2311f061cd1818d0f12f728901a9e0adb6d3a861b9656b82d9bf4f6a4f1"
+ },
+ "in22/doi_Deva": {
+  "items": 1024,
+  "bytes": 408607,
+  "sha256": "62b138ae5f633b52bb71fc2ccadac48ab56da2fef50d4c262bf8ea3997dabe07"
+ },
+ "in22/eng_Latn": {
+  "items": 1024,
+  "bytes": 159667,
+  "sha256": "2cc4d624657bf04b1bd89bacd4d34ed7870496e1e1b01c11634a9a71fd0ddade"
+ },
+ "in22/gom_Deva": {
+  "items": 1024,
+  "bytes": 403185,
+  "sha256": "e61df467d6c24032dc5b8f88e4fdbd41cf9d67c65be5db554a8e8511f93a1177"
+ },
+ "in22/guj_Gujr": {
+  "items": 1024,
+  "bytes": 393125,
+  "sha256": "6e92dc045f17eed5b8584452b36a973779d5c6385ca353a1aa4e9f7b54ae2e48"
+ },
+ "in22/hin_Deva": {
+  "items": 1024,
+  "bytes": 411465,
+  "sha256": "e1c2590320fedb34b7d96a624ab3999a1bff63f6eb9abbac7e55eb0e8cd38a5f"
+ },
+ "in22/kan_Knda": {
+  "items": 1024,
+  "bytes": 470231,
+  "sha256": "38ad178cc719feefe12b982d606a348773f2df24d769d46b1a2a61982d9d291c"
+ },
+ "in22/kas_Arab": {
+  "items": 1024,
+  "bytes": 294464,
+  "sha256": "28f37e710cdcfc007eb81f5d9e7fe71faa35848939404e82f25c491a3a2499f7"
+ },
+ "in22/mai_Deva": {
+  "items": 1024,
+  "bytes": 392085,
+  "sha256": "e09f6bb045cb798e50977025c578992bf52f9bbadd4e8a754706dbf0855fbd53"
+ },
+ "in22/mal_Mlym": {
+  "items": 1024,
+  "bytes": 506389,
+  "sha256": "0c754776e8268fbdab38e4dca73f467935dd733584a12835552f945a1bbb96a8"
+ },
+ "in22/mar_Deva": {
+  "items": 1024,
+  "bytes": 432488,
+  "sha256": "582acb7b09e5b817160e4b632d470091e8c7a2c76f7c2766c3aff57d5cb08481"
+ },
+ "in22/mni_Mtei": {
+  "items": 1024,
+  "bytes": 407329,
+  "sha256": "2325fd1f0a02fa74b19ae1ab164350973c63c890d864a90bd3a6c9da01d84554"
+ },
+ "in22/npi_Deva": {
+  "items": 1024,
+  "bytes": 413240,
+  "sha256": "c02053b60d61b719adbeca66ab8a3aa0cf2ff62cbe98aea4aabfe0fa6aa0f7b2"
+ },
+ "in22/ory_Orya": {
+  "items": 1024,
+  "bytes": 466167,
+  "sha256": "f718f06e6b3609dff7e76e9f468245f473efdbf7557ce91ac35e0d2e2c526f7a"
+ },
+ "in22/pan_Guru": {
+  "items": 1024,
+  "bytes": 371226,
+  "sha256": "8150c4fb49c65c9d2c87be5abb74686ce7ea8cf928a16b308e68da7a0c2296f8"
+ },
+ "in22/san_Deva": {
+  "items": 1024,
+  "bytes": 429446,
+  "sha256": "fce5b6556aff7e421a7f9f371342f3ef98a3a9e9911c411b1cad859a1c476655"
+ },
+ "in22/sat_Olck": {
+  "items": 1024,
+  "bytes": 443181,
+  "sha256": "d3e4e274b0aca776c71ad6bc5201fdaba99ef1ecf50e226efb3032b913bf2d15"
+ },
+ "in22/snd_Deva": {
+  "items": 1024,
+  "bytes": 411604,
+  "sha256": "931d2c7cb5ab13ca461b86fd98cb78b7699cbcda3bee6094944c22b8afb6766a"
+ },
+ "in22/tam_Taml": {
+  "items": 1024,
+  "bytes": 513977,
+  "sha256": "d46fa02b658c00d927379f44f635940eba044e3ad64a9b912912b936d76b0da2"
+ },
+ "in22/tel_Telu": {
+  "items": 1024,
+  "bytes": 426234,
+  "sha256": "b25041896c7e4e33245dd6ad994954a2c8fcec23a4ba5a52f83c153126266ac0"
+ },
+ "in22/urd_Arab": {
+  "items": 1024,
+  "bytes": 276000,
+  "sha256": "dd9d88302b1a8b89c1a682dec54a57ac0874bbecd9d5dbdf38f300b2018375c9"
+ },
+ "indiceval-arc/asm_Beng": {
+  "items": 1172,
+  "bytes": 753932,
+  "sha256": "779eeaa377583ec957ab05c696231c5b3297fc19ff05bcd6d5c2d78ee9c5c6ea"
+ },
+ "indiceval-arc/ben_Beng": {
+  "items": 1172,
+  "bytes": 769841,
+  "sha256": "0289bb454d256ec71b091229aed8615da38de95412b076b9efedeec17f437027"
+ },
+ "indiceval-arc/eng_Latn": {
+  "items": 1172,
+  "bytes": 295297,
+  "sha256": "5f119efaf3f4f3dcf8d9c92f52a7f754f92fe40798c03cabbe128fbba26f6b42"
+ },
+ "indiceval-arc/guj_Gujr": {
+  "items": 1172,
+  "bytes": 740207,
+  "sha256": "043c3c6be4ac4ce209d8b33d3ecb7ef347f4bce384e656e8ef38ae4402a87953"
+ },
+ "indiceval-arc/hin_Deva": {
+  "items": 1172,
+  "bytes": 779592,
+  "sha256": "0134f27d270015b883b8dbab02a702a756d72474b4d4595e8614bd82c4029617"
+ },
+ "indiceval-arc/kan_Knda": {
+  "items": 1172,
+  "bytes": 864854,
+  "sha256": "c1b08b54e51c2e958d4a23b9d4eb6b692e2fde48d0ccf4d3b60b7b43d013208b"
+ },
+ "indiceval-arc/mal_Mlym": {
+  "items": 1172,
+  "bytes": 947692,
+  "sha256": "f1ae03bd4db6fdd106bc8f50c938ceeed42bd5bfa666e9f6cae365b7e1cc1a08"
+ },
+ "indiceval-arc/mar_Deva": {
+  "items": 1172,
+  "bytes": 780913,
+  "sha256": "4d1d32ca80bbb2a84d71a696ce717ff73b8bfd6ab5cc271881fa2c8b66f25966"
+ },
+ "indiceval-arc/npi_Deva": {
+  "items": 1172,
+  "bytes": 773999,
+  "sha256": "b0a2acff01d63ddb0c68214a892050eddbde8989dc321007447ea4ac0df969ee"
+ },
+ "indiceval-arc/ory_Orya": {
+  "items": 1172,
+  "bytes": 808360,
+  "sha256": "0b2f7070b3c36488975115e819222f2dfa745b427ce2fe18ee67ce07ded2b6d9"
+ },
+ "indiceval-arc/pan_Guru": {
+  "items": 1172,
+  "bytes": 771159,
+  "sha256": "de19d16e5956ba7b4ac253a089f0263e53ddc1dfc6569f2aa5ccd14d9ff96376"
+ },
+ "indiceval-arc/san_Deva": {
+  "items": 1172,
+  "bytes": 809992,
+  "sha256": "99a9041b7d2189a0858cea9a5cfbd51d3b977259e6313cc48f079a51d8369b86"
+ },
+ "indiceval-arc/tam_Taml": {
+  "items": 1172,
+  "bytes": 948109,
+  "sha256": "1cc54ee5b88b256022e3790e055300d0587a8d0e9f23b7723ac563f7503d9513"
+ },
+ "indiceval-arc/tel_Telu": {
+  "items": 1172,
+  "bytes": 817806,
+  "sha256": "82bff9176c652c73793c140411fc0ef5de6db02a5785c96c8d7eb769103244fb"
+ },
+ "indiceval-arc/urd_Arab": {
+  "items": 1172,
+  "bytes": 527177,
+  "sha256": "09c08b8054f8dd717d24bf8c8ce438dc6486a2fdd522c44e885af64c9ebef0a7"
+ },
+ "indiceval-gsm8k/asm_Beng": {
+  "items": 1319,
+  "bytes": 1632664,
+  "sha256": "3e1e3dfab74a62773e458347b1b19789addb1d09abcc10e1cbbdcd3102ba46fb"
+ },
+ "indiceval-gsm8k/ben_Beng": {
+  "items": 1319,
+  "bytes": 1598009,
+  "sha256": "5e9fba6ade0a20f38482dec1736b8c9bfa30b4e1352f017544f9e2d7d8e79db4"
+ },
+ "indiceval-gsm8k/eng_Latn": {
+  "items": 1319,
+  "bytes": 704499,
+  "sha256": "324374304dbae9ec7642643b07e70f94ec2776b4688a16406256e9a82a664e4e"
+ },
+ "indiceval-gsm8k/guj_Gujr": {
+  "items": 1319,
+  "bytes": 1565290,
+  "sha256": "4f54c8d78b22f04dedf60211c02e8928a85ae8c0089e62fdc14961a7e5911e92"
+ },
+ "indiceval-gsm8k/hin_Deva": {
+  "items": 1319,
+  "bytes": 1619048,
+  "sha256": "aaad02845ab2cd5dd17efd66f61eb7609b1b60679e98be9f0e3109377d6e0f0b"
+ },
+ "indiceval-gsm8k/kan_Knda": {
+  "items": 1319,
+  "bytes": 1889099,
+  "sha256": "0831dce0953bb825eb7acba56e7ef308995497a00de66137ca48431e6195f38e"
+ },
+ "indiceval-gsm8k/mal_Mlym": {
+  "items": 1319,
+  "bytes": 1945727,
+  "sha256": "126ee28facc2c2322361df6ec40328841d65454750f63f0465c6534a95550631"
+ },
+ "indiceval-gsm8k/mar_Deva": {
+  "items": 1319,
+  "bytes": 1683051,
+  "sha256": "eb91f854cb203241adadcd9f746e9590e9b4cbafba89d78776053cf3a0849de8"
+ },
+ "indiceval-gsm8k/npi_Deva": {
+  "items": 1319,
+  "bytes": 1674528,
+  "sha256": "120ed36e6751b8c9ff3ae2ea228f4d14bee490e167babe8bf214e9534029df75"
+ },
+ "indiceval-gsm8k/ory_Orya": {
+  "items": 1319,
+  "bytes": 1712155,
+  "sha256": "eab870d07367435967cab2bd7906c0db63d1d22be4bdf9c08e38240c9e096c6b"
+ },
+ "indiceval-gsm8k/pan_Guru": {
+  "items": 1319,
+  "bytes": 1622766,
+  "sha256": "e1672d1513baac25f4a7b90b6c7bfb1f3fb82e0ca080a9df7323c56859488532"
+ },
+ "indiceval-gsm8k/san_Deva": {
+  "items": 1319,
+  "bytes": 1843812,
+  "sha256": "d19931b10be176de76c0cefd424acfb10b259d6797124103484d2af15fad9f30"
+ },
+ "indiceval-gsm8k/tam_Taml": {
+  "items": 1319,
+  "bytes": 2109509,
+  "sha256": "598a36d6187e33d2514072ee6d8717174d1051bc79367dd22da4986209653f62"
+ },
+ "indiceval-gsm8k/tel_Telu": {
+  "items": 1319,
+  "bytes": 1813775,
+  "sha256": "6d4808485ddf15599ab0f82d29909d6c256266db78ff8b15099b50f81b0d30c2"
+ },
+ "indiceval-gsm8k/urd_Arab": {
+  "items": 1319,
+  "bytes": 1141560,
+  "sha256": "c4ab87ad8fc336488195429823144f745f65f36d1cc0589b9da6ad0b9811b690"
+ },
+ "indiceval-humaneval/asm_Beng": {
+  "items": 164,
+  "bytes": 132530,
+  "sha256": "4ed287d06364e0dc8c6334022298a5d5b4994fd1536ae4d29418407830fadef7"
+ },
+ "indiceval-humaneval/ben_Beng": {
+  "items": 164,
+  "bytes": 136813,
+  "sha256": "ca4cdb59a352efbf0363dab8c11d6cc62ccf5e94b161b1951a396bea3d1cf8ab"
+ },
+ "indiceval-humaneval/eng_Latn": {
+  "items": 164,
+  "bytes": 73980,
+  "sha256": "b9ff4e8fde3145737736eab24f7b77f249aebc84574a4d2b1c29dd81a6c18b1f"
+ },
+ "indiceval-humaneval/guj_Gujr": {
+  "items": 164,
+  "bytes": 127689,
+  "sha256": "c913f1cc286e34884f128401caa5965817986cf13934bef2d899c4f6247a919b"
+ },
+ "indiceval-humaneval/hin_Deva": {
+  "items": 164,
+  "bytes": 130117,
+  "sha256": "8eb270d8d87c42b1f2608c6ac2f3b5fe5ae55ce07591d8ead38b8ad005cae317"
+ },
+ "indiceval-humaneval/kan_Knda": {
+  "items": 164,
+  "bytes": 150006,
+  "sha256": "79f2b2e86a754ea9491a145387b12278f69c9bfbeb88216345505af6a7add43d"
+ },
+ "indiceval-humaneval/mal_Mlym": {
+  "items": 164,
+  "bytes": 157311,
+  "sha256": "8b95a2c5d5a63cfd1ed6e23f71e11c1fe6c9355ea495afd7eb23b719637bf212"
+ },
+ "indiceval-humaneval/mar_Deva": {
+  "items": 164,
+  "bytes": 132579,
+  "sha256": "78ef8b3f09daea144c7a94a42e0b3e488d7cd7446c0fa7797f643f32a742ddf4"
+ },
+ "indiceval-humaneval/npi_Deva": {
+  "items": 164,
+  "bytes": 137864,
+  "sha256": "3b0c4df33437a227325c763d7dc816b17d0fa3d5ac6eada136cfab7d7c7d2cb8"
+ },
+ "indiceval-humaneval/ory_Orya": {
+  "items": 164,
+  "bytes": 135767,
+  "sha256": "cb8775f2584f3c1cae40a67d3ea6faa44dcf704efcb8cf64ebac25d585a85ea9"
+ },
+ "indiceval-humaneval/pan_Guru": {
+  "items": 164,
+  "bytes": 133967,
+  "sha256": "aa422a433edb0dd395e6eef42ff95c11b2486510003ad253d23b743f6172d326"
+ },
+ "indiceval-humaneval/san_Deva": {
+  "items": 164,
+  "bytes": 144444,
+  "sha256": "ef1d4b59a5c87724ca57956b0d8093ae780ef2a754cd4b8ce5fa29ba5c495a16"
+ },
+ "indiceval-humaneval/tam_Taml": {
+  "items": 164,
+  "bytes": 169701,
+  "sha256": "7a277b404bf80678798a591b1a53a31f5a8f457aafc82a11632236ce42c9007a"
+ },
+ "indiceval-humaneval/tel_Telu": {
+  "items": 164,
+  "bytes": 141756,
+  "sha256": "aa20b9ad42df31f54d8e7732c96993e38c0fc83fdc1c883e4ad790f3bbcee107"
+ },
+ "indiceval-humaneval/urd_Arab": {
+  "items": 164,
+  "bytes": 102236,
+  "sha256": "aa6c222b2eedcaa2cf2af6982da0bb3348a12a886cc7eef0f3ee42f6bbd78ffb"
+ },
+ "indiceval-math500/asm_Beng": {
+  "items": 500,
+  "bytes": 635382,
+  "sha256": "2194056b585e51b624e52d26697c46019b89473a24700e8005c6372dfbcd3a06"
+ },
+ "indiceval-math500/ben_Beng": {
+  "items": 500,
+  "bytes": 642592,
+  "sha256": "a91508e07be5f1aff0103ff02f45a559db376cd985142ff37876b26ef8299487"
+ },
+ "indiceval-math500/eng_Latn": {
+  "items": 500,
+  "bytes": 364090,
+  "sha256": "2394d9257a8ba00d7540e869fd38f748df5ba347a964fa0b0d846eb241b3da21"
+ },
+ "indiceval-math500/guj_Gujr": {
+  "items": 500,
+  "bytes": 620787,
+  "sha256": "f3ec3b7fb6f010e2b4f9fa86f895151d48a10cd5b634597415f610ea3166eeff"
+ },
+ "indiceval-math500/hin_Deva": {
+  "items": 500,
+  "bytes": 651206,
+  "sha256": "b4d6d674c7238e72c0fcafc6109ce937b927f9da2200d0d656f9ccd6eb887906"
+ },
+ "indiceval-math500/kan_Knda": {
+  "items": 500,
+  "bytes": 721448,
+  "sha256": "0e13624a9ad2af0014d9f5e280b964792142f73e15223ab4f58f10a430302426"
+ },
+ "indiceval-math500/mal_Mlym": {
+  "items": 500,
+  "bytes": 771017,
+  "sha256": "6a31ba4f44843e1ba9a6194fd943add70852b96465bf13e42a224f78649b1393"
+ },
+ "indiceval-math500/mar_Deva": {
+  "items": 500,
+  "bytes": 661491,
+  "sha256": "f74028f0cd1b8f4c03c7311b988a3237d780df310222f92f7a300de38e7904fa"
+ },
+ "indiceval-math500/npi_Deva": {
+  "items": 500,
+  "bytes": 668972,
+  "sha256": "7cbec6f3883183f3ffc1828545bacd3fcddc9f09392f4826d42509e8c5a17bb7"
+ },
+ "indiceval-math500/ory_Orya": {
+  "items": 500,
+  "bytes": 666672,
+  "sha256": "eed19e0875a27a5b639edc63f7e70b9cd291746c2176e53018ade3a124f5ae4a"
+ },
+ "indiceval-math500/pan_Guru": {
+  "items": 500,
+  "bytes": 648056,
+  "sha256": "2b803e02e2481d161dd1a05a3e7e7c7b26e9afde16212bb384110d11ec6b8b3e"
+ },
+ "indiceval-math500/san_Deva": {
+  "items": 500,
+  "bytes": 696863,
+  "sha256": "385b4230cf36a4cfdc263c7dcce99e7d9aa891971a3148e0fd5119c5b02eb5ee"
+ },
+ "indiceval-math500/tam_Taml": {
+  "items": 500,
+  "bytes": 772748,
+  "sha256": "d130e40d74843612797ee9f1aa662b4b6c734a40cf9aae54a475565bc413ebc1"
+ },
+ "indiceval-math500/tel_Telu": {
+  "items": 500,
+  "bytes": 687599,
+  "sha256": "dbfddbeb1469b73d71ebd2bded484fc5777373c7df7a0d9ab6cb1c00b52e1d31"
+ },
+ "indiceval-math500/urd_Arab": {
+  "items": 500,
+  "bytes": 508106,
+  "sha256": "23a60c05b10803ca940844119080f4b114dd0cb79a2b069636fb4ede09f31552"
+ },
+ "indiceval-mmlupro/asm_Beng": {
+  "items": 2000,
+  "bytes": 2911044,
+  "sha256": "3e188f147a7b3e18ddab11378bfd79b55a538045cbbf363d1bb23e2f6cc29cac"
+ },
+ "indiceval-mmlupro/ben_Beng": {
+  "items": 2000,
+  "bytes": 2939761,
+  "sha256": "f64c8d63e08a4e0323b02caa380b05217a9e16317de12ba4b1ca3614f60a6e14"
+ },
+ "indiceval-mmlupro/eng_Latn": {
+  "items": 2000,
+  "bytes": 1243497,
+  "sha256": "368e293701e31ca98cd4632c1fe2117ce28c36a0d9e0f5bad35bf5afdb3d0016"
+ },
+ "indiceval-mmlupro/guj_Gujr": {
+  "items": 2000,
+  "bytes": 2822587,
+  "sha256": "f8c16018c034512458a50ab4c5fc3ba4830a4098a7ea7c8b308282a45e9e42dd"
+ },
+ "indiceval-mmlupro/hin_Deva": {
+  "items": 2000,
+  "bytes": 2936740,
+  "sha256": "4b0a26776b5b5bcfb98879e72f194a3b114a921b25f19608c559806c5fa17f86"
+ },
+ "indiceval-mmlupro/kan_Knda": {
+  "items": 2000,
+  "bytes": 3217076,
+  "sha256": "3d669e34363b11b47320a14edc49cfecc2dfdb7d1d2146821b0e531097b16e83"
+ },
+ "indiceval-mmlupro/mal_Mlym": {
+  "items": 2000,
+  "bytes": 3499030,
+  "sha256": "d999c9cf1d77bfaa38eb501928f27619ca8f01b381fc0a2f1c8242a597f96d3c"
+ },
+ "indiceval-mmlupro/mar_Deva": {
+  "items": 2000,
+  "bytes": 2986033,
+  "sha256": "3975f9aa6ee4b8c2dd1f7c12ab3f2a4124fb646a1971600a07708af897aa9b4f"
+ },
+ "indiceval-mmlupro/npi_Deva": {
+  "items": 2000,
+  "bytes": 2910580,
+  "sha256": "3ce4e13b11fc572dc36aa25bb769ae60b6247db8d25ac4566d63939769bdfcf0"
+ },
+ "indiceval-mmlupro/ory_Orya": {
+  "items": 2000,
+  "bytes": 3055311,
+  "sha256": "b0f3fddcec6121925f98de2b910dab7915ebc364f2d4a1d8ad5fa01b5356fb09"
+ },
+ "indiceval-mmlupro/pan_Guru": {
+  "items": 2000,
+  "bytes": 2861814,
+  "sha256": "1840ad90d74d189f5535b8bf3b64a74ce3faa9efc9afb040d687904cf604656b"
+ },
+ "indiceval-mmlupro/san_Deva": {
+  "items": 2000,
+  "bytes": 3038846,
+  "sha256": "36ba3d7948681412582c71ee41aa06dc68a36027730c28abc95566c456099fe9"
+ },
+ "indiceval-mmlupro/tam_Taml": {
+  "items": 2000,
+  "bytes": 3627951,
+  "sha256": "0b2023676dec16867a7dcc4de98a7706ee8c0d1d0ddfd677b94e06c660a2d67c"
+ },
+ "indiceval-mmlupro/tel_Telu": {
+  "items": 2000,
+  "bytes": 3124110,
+  "sha256": "140233cda6c534e92b9961cc5c3ec668c107a07d86b2b2d00f2b706425ea5701"
+ },
+ "indiceval-mmlupro/urd_Arab": {
+  "items": 2000,
+  "bytes": 2010501,
+  "sha256": "cf631eed3029b98fddb5452cc871cf22c5a54ac0096f0b7b398cf056682a1df0"
+ },
+ "latex/Wikipedia-formulas": {
+  "items": 5000,
+  "bytes": 356482,
+  "sha256": "c81fb7d8e2a711502b8b1185165deee0325d0d3e1d12d9c322411bf276935f8b"
+ },
+ "latex/arXiv-cs-source": {
+  "items": 15,
+  "bytes": 520460,
+  "sha256": "68026aed1b5b172617ae933b966178de5f25a91916248ee0bd91f123514510e8"
+ },
+ "latex/arXiv-math-source": {
+  "items": 15,
+  "bytes": 670186,
+  "sha256": "4e7fde54216f9e770d37809a53082307427473a9ea44628378daec6251cbc94d"
+ },
+ "latex/arXiv-physics-source": {
+  "items": 17,
+  "bytes": 817650,
+  "sha256": "a8d52e758f6f365f25376bc1dcf5f6b7db1e6128f6b1d1c857de9403fe2bbb6b"
+ },
+ "latex/arXiv-qbio-stat-source": {
+  "items": 17,
+  "bytes": 637726,
+  "sha256": "aa92f6c57a3acd1f79cfd81fbc403ca9a91b0e89f43c50fcebf8089ad9a4b300"
+ },
+ "math/GSM8K-test": {
+  "items": 1319,
+  "bytes": 704499,
+  "sha256": "324374304dbae9ec7642643b07e70f94ec2776b4688a16406256e9a82a664e4e"
+ },
+ "math/MATH-test": {
+  "items": 5000,
+  "bytes": 3565468,
+  "sha256": "11a226bdfaa33995be07233d63759a38ad42fd87dcec1cadc72fcf5ce8153396"
+ },
+ "milu/ben_Beng": {
+  "items": 4910,
+  "bytes": 1907063,
+  "sha256": "621eab8acef66863cfa669f03a7c687bad47f2b8f0988a30372130a91b940dc8"
+ },
+ "milu/eng_Latn": {
+  "items": 13432,
+  "bytes": 2623860,
+  "sha256": "4173367ccb396db1f2af564eadd19ee45304147d7646d84bb039514fc6d01f2b"
+ },
+ "milu/guj_Gujr": {
+  "items": 2042,
+  "bytes": 742932,
+  "sha256": "3700603fdd62524b46499b4c80263be4143abfe1378b82f9a68abd9e55f18427"
+ },
+ "milu/hin_Deva": {
+  "items": 14582,
+  "bytes": 5933590,
+  "sha256": "a3b9ff6d3ab6b1e551e85c5fbff5edc59983ee4a5d0b9fdb29b2892755e8b808"
+ },
+ "milu/kan_Knda": {
+  "items": 4630,
+  "bytes": 1894030,
+  "sha256": "a3de9be10436d5aa3ecff0e9a4d6d52e72a6bc4c8d41e6aad7520f0ff9616161"
+ },
+ "milu/mal_Mlym": {
+  "items": 956,
+  "bytes": 444128,
+  "sha256": "06e79cc6b13649fd9c929f17055322942678775c098dfec4500a28af76e217b2"
+ },
+ "milu/mar_Deva": {
+  "items": 5536,
+  "bytes": 2769975,
+  "sha256": "48d962d9ec88edadb2a75a75bb75ee143df9bde8377d3535acf520d7771dac19"
+ },
+ "milu/ory_Orya": {
+  "items": 1381,
+  "bytes": 543449,
+  "sha256": "ea6d73456d5b1edddec29040a331f59e59f38c4766a76ea3b7703b6b81ba47ef"
+ },
+ "milu/pan_Guru": {
+  "items": 676,
+  "bytes": 252254,
+  "sha256": "b8355eb4ee2f25a5e2207ce5e07795637df5390cc0e30eab3ce643ea70f70f00"
+ },
+ "milu/tam_Taml": {
+  "items": 4753,
+  "bytes": 2154374,
+  "sha256": "b761b5bd1eeaa2819e6404f95d7265b652003a3f6497ac5c7a93e26575f16d09"
+ },
+ "milu/tel_Telu": {
+  "items": 5883,
+  "bytes": 2734909,
+  "sha256": "d6b9ce7363c9af1513a23c5d9ff9b7e495b1f0418516c077f10fe8836419b99b"
+ },
+ "science/PubMed-abstracts": {
+  "items": 2000,
+  "bytes": 2499039,
+  "sha256": "060462161d7520815c2caaad649c2762e0aad8b091b479d3666204a402c1967d"
+ },
+ "science/arXiv-cs-abstracts": {
+  "items": 150,
+  "bytes": 212157,
+  "sha256": "b003c5ef4824852bc6a92659a2270cb00d4380a207a14bbb29844d40b807d634"
+ },
+ "science/arXiv-math-abstracts": {
+  "items": 150,
+  "bytes": 137581,
+  "sha256": "57fb8d308443fcedcf3594a29d1b64c7aaf42ee7f2067dc7f74687c9d7cbeac8"
+ },
+ "science/arXiv-physics-abstracts": {
+  "items": 150,
+  "bytes": 195035,
+  "sha256": "8956e7f3087415a6f5041b5012bcaa792abc7cec324546fefe0b55ca069e46e2"
+ },
+ "science/arXiv-qbio-stat-abstracts": {
+  "items": 150,
+  "bytes": 204451,
+  "sha256": "da8633f7833aa6c17bdff568639401112a437fe632771830d8f799c63eccdeeb"
+ }
+}

@@ -1,0 +1,12 @@
+brahmai-tokenizer-eval
+Copyright 2026 ZenteiQ AiTech Innovations Pvt. Ltd.
+
+This product includes software developed at ZenteiQ AiTech Innovations Pvt. Ltd.
+(https://github.com/zenteiq-research/brahmai-tokenizer-eval).
+
+The code is licensed under the Apache License 2.0 (see LICENSE). The data under
+brahmai_tokenizer_eval/data/shipped/ is NOT covered by that licence: each part
+keeps its original licence and attribution, listed in
+brahmai_tokenizer_eval/data/shipped/README.md.
+
+This work was developed as part of the BrahmAI project, supported by the IndiaAI Mission. ZenteiQ acknowledges the support of the IndiaAI Mission, Ministry of Electronics and Information Technology (MeitY), under the Foundation Model initiative.

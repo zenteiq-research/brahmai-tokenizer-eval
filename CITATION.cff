@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, and cite the datasets you report results on."
+type: software
+title: "BrahmAI Tokenizer Eval"
+abstract: >-
+  A reproducible tokenizer evaluation suite with coverage of the 22 scheduled Indian languages:
+  tokens per byte, fertility and token premium on pinned public corpora with bootstrap intervals,
+  and probes for silent tokenizer failures.
+  Developed as part of the BrahmAI project, supported by the IndiaAI Mission. ZenteiQ acknowledges the support of the IndiaAI Mission, Ministry of Electronics and Information Technology (MeitY), under the Foundation Model initiative.
+authors:
+  - name: "ZenteiQ AiTech Innovations Pvt. Ltd."
+    email: research@zenteiq.ai
+version: 1.0.0
+license: Apache-2.0
+repository-code: "https://github.com/zenteiq-research/brahmai-tokenizer-eval"
+keywords:
+  - tokenizer
+  - evaluation
+  - Indic languages
+  - reproducibility

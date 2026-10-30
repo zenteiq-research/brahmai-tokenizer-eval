@@ -1,0 +1,143 @@
+% Citations for the datasets used by brahmai-tokenizer-eval.
+% Entries are copied from each dataset's own README or card, except where a section says otherwise.
+% When you report results on a corpus, cite the entries of its dataset.
+
+% --- IN22-Gen (AI4Bharat); the two MTEB entries are only for the mteb/IN22-Gen copy
+@article{gala2023indictrans,
+  author = {Jay Gala and Pranjal A Chitale and A K Raghavan and Varun Gumma and Sumanth Doddapaneni and Aswanth Kumar M and Janki Atul Nawale and Anupama Sujatha and Ratish Puduppully and Vivek Raghavan and Pratyush Kumar and Mitesh M Khapra and Raj Dabre and Anoop Kunchukuttan},
+  issn = {2835-8856},
+  journal = {Transactions on Machine Learning Research},
+  note = {},
+  title = {IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages},
+  url = {https://openreview.net/forum?id=vfT4YuzAYA},
+  year = {2023},
+}
+@article{enevoldsen2025mmtebmassivemultilingualtext,
+  title={MMTEB: Massive Multilingual Text Embedding Benchmark},
+  author={Kenneth Enevoldsen and Isaac Chung and Imene Kerboua and Márton Kardos and Ashwin Mathur and David Stap and Jay Gala and Wissam Siblini and Dominik Krzemiński and Genta Indra Winata and Saba Sturua and Saiteja Utpala and Mathieu Ciancone and Marion Schaeffer and Gabriel Sequeira and Diganta Misra and Shreeya Dhakal and Jonathan Rystrøm and Roman Solomatin and Ömer Çağatan and Akash Kundu and Martin Bernstorff and Shitao Xiao and Akshita Sukhlecha and Bhavish Pahwa and Rafał Poświata and Kranthi Kiran GV and Shawon Ashraf and Daniel Auras and Björn Plüster and Jan Philipp Harries and Loïc Magne and Isabelle Mohr and Mariya Hendriksen and Dawei Zhu and Hippolyte Gisserot-Boukhlef and Tom Aarsen and Jan Kostkan and Konrad Wojtasik and Taemin Lee and Marek Šuppa and Crystina Zhang and Roberta Rocca and Mohammed Hamdy and Andrianos Michail and John Yang and Manuel Faysse and Aleksei Vatolin and Nandan Thakur and Manan Dey and Dipam Vasani and Pranjal Chitale and Simone Tedeschi and Nguyen Tai and Artem Snegirev and Michael Günther and Mengzhou Xia and Weijia Shi and Xing Han Lù and Jordan Clive and Gayatri Krishnakumar and Anna Maksimova and Silvan Wehrli and Maria Tikhonova and Henil Panchal and Aleksandr Abramov and Malte Ostendorff and Zheng Liu and Simon Clematide and Lester James Miranda and Alena Fenogenova and Guangyu Song and Ruqiya Bin Safi and Wen-Ding Li and Alessia Borghini and Federico Cassano and Hongjin Su and Jimmy Lin and Howard Yen and Lasse Hansen and Sara Hooker and Chenghao Xiao and Vaibhav Adlakha and Orion Weller and Siva Reddy and Niklas Muennighoff},
+  publisher = {arXiv},
+  journal={arXiv preprint arXiv:2502.13595},
+  year={2025},
+  url={https://arxiv.org/abs/2502.13595},
+  doi = {10.48550/arXiv.2502.13595},
+}
+@article{muennighoff2022mteb,
+  author = {Muennighoff, Niklas and Tazi, Nouamane and Magne, Lo{\"\i}c and Reimers, Nils},
+  title = {MTEB: Massive Text Embedding Benchmark},
+  publisher = {arXiv},
+  journal={arXiv preprint arXiv:2210.07316},
+  year = {2022}
+  url = {https://arxiv.org/abs/2210.07316},
+  doi = {10.48550/ARXIV.2210.07316},
+}
+
+% --- MILU-1.5 (AI4Bharat)
+@inproceedings{verma-etal-2025-milu,
+    title = "{MILU}: A Multi-task {I}ndic Language Understanding Benchmark",
+    author = "Verma, Sshubam  and
+      Khan, Mohammed Safi Ur Rahman  and
+      Kumar, Vishwajeet  and
+      Murthy, Rudra  and
+      Sen, Jaydeep",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.507/",
+    doi = "10.18653/v1/2025.naacl-long.507",
+    pages = "10076--10132",
+    ISBN = "979-8-89176-189-6",
+    abstract = "Evaluating Large Language Models (LLMs) in low-resource and linguistically diverse languages remains a significant challenge in NLP, particularly for languages using non-Latin scripts like those spoken in India. Existing benchmarks predominantly focus on English, leaving substantial gaps in assessing LLM capabilities in these languages. We introduce MILU, a Multi-task Indic Language Understanding Benchmark, a comprehensive evaluation benchmark designed to address this gap. MILU spans 8 domains and 41 subjects across 11 Indic languages, reflecting general and culturally specific knowledge. With an India-centric design, incorporates material from regional and state-level examinations, covering topics such as local history, arts, festivals, and laws, alongside standard subjects like science and mathematics. We evaluate over 42 LLMs, and find that current LLMs struggle with MILU, with GPT-4o achieving the highest average accuracy at 74 percent. Open multilingual models outperform language-specific fine-tuned models, which perform only slightly better than random baselines. Models also perform better in high resource languages as compared to low resource ones. Domain-wise analysis indicates that models perform poorly in culturally relevant areas like Arts and Humanities, Law and Governance compared to general fields like STEM. To the best of our knowledge, MILU is the first of its kind benchmark focused on Indic languages, serving as a crucial step towards comprehensive cultural evaluation. All code, benchmarks, and artifacts are publicly available to foster open research."
+}
+
+% --- Indic-LLM-Eval-Suite (AI4Bharat, NVIDIA)
+@misc{indicllmevalsuite2026blog,
+  title        = {Introducing Indic-LLM-Eval-Suite: Better Indic Models Need Better Benchmarks},
+  author       = {Kunchukuttan, Anoop and Kamath, Anusha and Khapra, Mitesh M. and
+                  Khan, Mohammed Safi Ur Rahman and Agarwal, Niket and Thethy, Rajpreet and
+                  Akkati, Ramani and Joshi, Raviraj and Murthy, Rudra and
+                  Jayakumar, Thanmay and Vaidya, Utkarsh},
+  year         = {2026},
+  month        = oct,
+  howpublished = {\url{https://ai4bharat.github.io/indic-llm-eval-suite-blog/}},
+  note         = {AI4Bharat, IIT Madras and NVIDIA}
+}
+
+% --- The Heap (TU Delft)
+@INPROCEEDINGS {11052803,
+author = { Katzy, Jonathan and Popescu, Razvan Mihai and van Deursen, Arie and Izadi, Maliheh },
+booktitle = { 2025 IEEE/ACM Second International Conference on AI Foundation Models and Software Engineering (Forge) },
+title = {{ The Heap: A Contamination-Free Multilingual Code Dataset for Evaluating Large Language Models }},
+year = {2025},
+pages = {151-155},
+doi = {10.1109/Forge66646.2025.00025},
+url = {https://doi.ieeecomputersociety.org/10.1109/Forge66646.2025.00025},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month =apr}
+
+% --- MATH (Hendrycks et al.)
+@article{hendrycksmath2021,
+  title={Measuring Mathematical Problem Solving With the MATH Dataset},
+  author={Dan Hendrycks and Collin Burns and Saurav Kadavath and Akul Arora and Steven Basart and Eric Tang and Dawn Song and Jacob Steinhardt},
+  journal={NeurIPS},
+  year={2021}
+}
+
+% --- GSM8K (Cobbe et al.)
+@article{cobbe2021gsm8k,
+  title={Training Verifiers to Solve Math Word Problems},
+  author={Cobbe, Karl and Kosaraju, Vineet and Bavarian, Mohammad and Chen, Mark and Jun, Heewoo and Kaiser, Lukasz and Plappert, Matthias and Tworek, Jerry and Hilton, Jacob and Nakano, Reiichiro and Hesse, Christopher and Schulman, John},
+  journal={arXiv preprint arXiv:2110.14168},
+  year={2021}
+}
+
+% --- Wikipedia LaTeX formulas
+@misc{horn2025benchmarking,
+    title = {Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs},
+    author = {Horn, Pius and Keuper, Janis},
+    year = {2025},
+    eprint={2512.09874},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    url = {https://arxiv.org/abs/2512.09874}
+}
+
+% --- FLORES-200 (Meta); the two entries without a key in the source README got the keys goyal2021flores101 and guzman2019flores
+@article{nllb2022,
+  author    = {NLLB Team, Marta R. Costa-jussà, James Cross, Onur Çelebi, Maha Elbayad, Kenneth Heafield, Kevin Heffernan, Elahe Kalbassi,  Janice Lam, Daniel Licht, Jean Maillard, Anna Sun, Skyler Wang, Guillaume Wenzek, Al Youngblood, Bapi Akula, Loic Barrault, Gabriel Mejia Gonzalez, Prangthip Hansanti, John Hoffman, Semarley Jarrett, Kaushik Ram Sadagopan, Dirk Rowe, Shannon Spruit, Chau Tran, Pierre Andrews, Necip Fazil Ayan, Shruti Bhosale, Sergey Edunov, Angela Fan, Cynthia Gao, Vedanuj Goswami, Francisco Guzmán, Philipp Koehn, Alexandre Mourachko, Christophe Ropers, Safiyyah Saleem, Holger Schwenk, Jeff Wang},
+  title     = {No Language Left Behind: Scaling Human-Centered Machine Translation},
+  year      = {2022}
+}
+@inproceedings{goyal2021flores101,
+  title={The FLORES-101  Evaluation Benchmark for Low-Resource and Multilingual Machine Translation},
+  author={Goyal, Naman and Gao, Cynthia and Chaudhary, Vishrav and Chen, Peng-Jen and Wenzek, Guillaume and Ju, Da and Krishnan, Sanjana and Ranzato, Marc'Aurelio and Guzm\'{a}n, Francisco and Fan, Angela},
+  year={2021}
+}
+@inproceedings{guzman2019flores,
+  title={Two New Evaluation Datasets for Low-Resource Machine Translation: Nepali-English and Sinhala-English},
+  author={Guzm\'{a}n, Francisco and Chen, Peng-Jen and Ott, Myle and Pino, Juan and Lample, Guillaume and Koehn, Philipp and Chaudhary, Vishrav and Ranzato, Marc'Aurelio},
+  journal={arXiv preprint arXiv:1902.01382},
+  year={2019}
+}
+
+% --- Dakshina (Google Research)
+@inproceedings{roark-etal-2020-processing,
+    title = "Processing {South} {Asian} Languages Written in the {Latin} Script:
+    the {Dakshina} Dataset",
+    author = "Roark, Brian and
+      Wolf-Sonkin, Lawrence and
+      Kirov, Christo and
+      Mielke, Sabrina J. and
+      Johny, Cibu and
+      Demir{\c{s}}ahin, I{\c{s}}in and
+      Hall, Keith",
+    booktitle = "Proceedings of The 12th Language Resources and Evaluation Conference (LREC)",
+    year = "2020",
+    url = "https://www.aclweb.org/anthology/2020.lrec-1.294",
+    pages = "2413--2423"
+}
